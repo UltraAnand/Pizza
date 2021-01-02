@@ -1,7 +1,6 @@
-#Ingredients for Paneer Makhni
+#  Ingredients for Paneer Makhni 
 
-
-##For Curry
+## For Curry 
 
 
 Water – ½ cup
@@ -20,7 +19,7 @@ Butter – 1 tbsp
 Cashew nuts – 12nos
 Salt – to taste
 
-##On Pan
+## On Pan
 
 
 Butter – 2 tbsp

@@ -1,4 +1,4 @@
-#Method
+# Method
 
 
 1. In a deep pan add all the ingredients mentioned under “For Curry”. Bring to a boil, then cover and cook for 25mins.

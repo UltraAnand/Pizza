@@ -1,5 +1,3 @@
-# Pizza
+# Paneer Makhni
 
-## This is second heading
-
-This project documents the recipe for Paneer Makhani]
+This project documents the recipe for Paneer Makhani
